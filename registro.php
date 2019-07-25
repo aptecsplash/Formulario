@@ -17,7 +17,6 @@ function disconnect() {
   $nombres = $_POST["nombres"];
   $apellidos = $_POST["apellidos"];
 
-
 //echo "$nombres , $apellidos, $email, $sucursal, $monto, $ticket";
 
   $insertar = "INSERT INTO clientes(nombres,apellidos) VALUES ('$nombres','$apellidos')";

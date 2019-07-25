@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-  background: url(../img/aligif.gif);
+  background: url(../img/BANNER.png);
   background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -14,13 +14,13 @@ body{
 
 }
 form{
-margin-top:10%;
-margin-left: 37%;
+margin-top:3%;
+margin-left: 41%;
 width: 50%;
 max-width: 350px;
-background: rgba(0,0,0,.8);
+background: rgba(6,26,79,1);
 padding:30px;
-border: 1px solid rgba(0,0,0,.8)
+border: 1px solid rgba(6,26,79  ,1)
 
 }
 h2{
@@ -36,7 +36,7 @@ select{
     margin:15px 0;
     background: rgba(255,255,255,.8);
     border-radius: 2px;
-    border-bottom: 4px solid #ff851b;
+    border-bottom: 4px solid #000000;
 }
 input{
     display:block;
@@ -46,10 +46,10 @@ margin:15px 0;
 border-radius: 2px;
 background: rgba(255,255,255,.8);
 
-    border-bottom: 4px solid #ff851b;
+    border-bottom: 4px solid #000000;
 }
 input[type="submit"]{
-    background: linear-gradient(#FFDA63, #FFB940);
+    background: linear-gradient(#ffff, #ffff);
     border: 0;
     color: brown;
     opacity: 0.9;
